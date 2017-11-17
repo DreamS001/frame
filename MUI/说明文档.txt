@@ -1,0 +1,7 @@
+在浏览器中看md文件：①在sublime里面按Ctrl+shift+p；②输入mdp；③选择markdown；④按回车键
+
+artTemplate:模板引擎
+mui框架的js代码是基于jQuery的，但是jQuery虽然强大，但是他过于庞大，而mui框架是用于手机app开发的所以用jQuery开发，手机性能会过度消耗的。
+
+test.html为mui框架的基础模板
+

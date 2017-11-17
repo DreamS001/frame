@@ -1,0 +1,22 @@
+.my-header.mui-bar,
+.my-footer.mui-bar{
+	background: #006699;
+}
+.my-header.mui-bar .mui-icon,
+.my-footer.mui-bar .mui-icon,
+.my-footer.mui-bar-tab .mui-tab-item .mui-icon~.mui-tab-label,
+.my-header.mui-bar .mui-title{
+	color: #FFF;
+}
+.my-footer .mui-tab-item.mui-active .mui-icon~.mui-tab-label,
+.my-footer .mui-tab-item.mui-active .mui-icon{
+	color: darkorange;
+}
+ul{
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+// .my-footer.mui-bar-tab .mui-tab-item.mui-active:focus>span{
+// 	color: darkorange;
+// }
